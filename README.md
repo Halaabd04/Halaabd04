@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hala 👋
 
-<!--
-**Halaabd04/Halaabd04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Student passionate about **Machine Learning**, **Deep Learning** and **Computer Vision**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,pytorch,sklearn" />
+
+- **AI & ML:** PyTorch, Scikit-learn, OpenCV, YOLO
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook, Google Colab
+
+## 📫 Contact
+
+📧 hala.abdelqader04@gmail.com
